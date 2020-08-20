@@ -1,0 +1,5 @@
+ Ejercicio 1 
+ ARRREGLO EN ORDEN / DESORDEN 
+
+ 23 45 2 3 7 89
+ 89 7 3 2 45 23

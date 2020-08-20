@@ -1,0 +1,4 @@
+ Ejercicio 2
+Numero ingresados:  23 43 7 68
+Arreglo desordenado: 23 43 7 68 
+Arreglo ordenado: 7 23 43 68 
